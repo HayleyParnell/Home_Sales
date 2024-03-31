@@ -2,7 +2,7 @@
 
 Come along as I use my knowledge of SparkSQL to determine key metrics about home sales data. I use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
 
-Usign SQlSpark I answer the following questions: 
+Usign SQLSpark I answer the following questions: 
 
 1.The Average price for a four-bedroom house sold for each year is:
 
